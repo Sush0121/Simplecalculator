@@ -18,8 +18,8 @@ It supports basic arithmetic operations and includes a **calculation history pan
 
 ## User Interface Overview
 
-<img width="603" height="507" alt="image" src="https://github.com/user-attachments/assets/af052036-e67e-4086-ad63-62bf18241488" />
-File Structure
+<img width="403" height="307" alt="image" src="https://github.com/user-attachments/assets/af052036-e67e-4086-ad63-62bf18241488" />
+## File Structure
 SimpleCalculator/
 │
 ├── SimpleCalculator.java   
